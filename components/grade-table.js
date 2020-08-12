@@ -18,5 +18,6 @@ class GradeTable {
       tr.append(tdNameStudent, tdNameCourse, tdGrade);
       tbody.append(tr);
     }
+    console.log(grades);
   }
 }
